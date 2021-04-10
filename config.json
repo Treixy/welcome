@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [583365400108990464],
+        "ACTIVITY_TEXT": "Floryes Welcome",
+        "GUILD_ID": "830008824546852884",
+        "VOICE_CHANNEL": "830011441876041809",
+        "MIN_STAFF_ROLE": "830012401629659156"
+    },
+    "FILES": {
+        "WELCOME": "default_files/bekleme.mp3",
+        "STAFF": "default_files/bekleme.mp3"
+    },
+    "TOKEN": "ODMwMDI4NzU4NzE4NDgwNDM0.YHAuhQ.WtodZA3gQ9T7MP8PK4MSHEfLdZ4"
+}
